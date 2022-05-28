@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laoSVM&layout=compact)](https://github.com/laoSVM/github-readme-stats)
+
 
 <br/>  
 
@@ -70,6 +70,8 @@
 </td></tr></table>  
 
 <br/>  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laoSVM&layout=compact)](https://github.com/laoSVM/github-readme-stats)
 
 <!--
 **laoSVM/laoSVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
