@@ -1,6 +1,9 @@
-### Hi there 👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+</div>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laoSVM&layout=compact)](https://github.com/laoSVM/github-readme-stats)
+
 
 <br/>  
 
