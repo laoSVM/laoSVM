@@ -2,26 +2,31 @@
     <h1>Hi, I'm Lance.</h1>
 </div>  
 
-
-
-<br/>  
-
-
-## Connect with me  
-<div align="left">
-<a href="https://github.com/https://github.com/laoSVM" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lance-ye-1b16701aa/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/https://www.kaggle.com/lanceye" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
+<div align="center">
+    <a href="https://github.com/https://github.com/laoSVM" target="_blank">
+        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/lance-ye-1b16701aa/" target="_blank">
+        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.kaggle.com/https://www.kaggle.com/lanceye" target="_blank">
+        <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+    </a>  
 </div>  
   
 
 <br/>  
+
+<dl>
+    <dd>I am a Master's student majoring in Business Analytics and Project Management at UConn.</dd>
+    <dd>I am passionate about <b>Machine Learning</b> and <b>Data Science</b>.</dd>
+    <dd>During the past few years, I have applied machine learning techniques in different industries ranging from <b>E-commerce</b>, <b>cryptocurrency</b>, and <b>environment protection</b>, etc.</dd>
+    <dd>My graduate education has provided me with extended experience in Python, SQL, and data visualization. I have earned certificates on <b>Data Visualization with Tableau</b> by <b>UC Davis</b>, <b>AI Engineering and Data Science Specialization</b> by <b>IBM</b>.</dd>
+</dl>
+
+
+
+
 
 <br/>  
 
