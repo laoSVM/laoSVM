@@ -35,7 +35,7 @@
 <dl>
     <dd>I have first learned to code in my high school and developed strong interest during the process of learning.</dd>
     <dd>As one of the most popular languages in the world, Python serves well as an analytic tool. I am also proficient in executing SQL queries to extract data from remote databases.</dd>
-    <dd>Apart from those, I have strong interest in web development.</dd>
+    <dd>Apart from those, web development is another field I'm interested at.</dd>
 </dl>
 
 | Web| Machine Learning | 
