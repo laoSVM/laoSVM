@@ -20,7 +20,7 @@
 <dl>
     <dd>I am a Master's student majoring in Business Analytics and Project Management at UConn.</dd>
     <dd>I am passionate about <b>Machine Learning</b> and <b>Data Science</b>.</dd>
-    <dd>During the past few years, I have applied machine learning techniques in different industries ranging from <b>E-commerce</b>, <b>cryptocurrency</b>, and <b>environment protection</b>, etc.</dd>
+    <dd>During the past few years, I have applied machine learning techniques in different industries ranging from <b>E-commerce</b>, <b>insurance</b>,<b>cryptocurrency</b>, and <b>environment protection</b>, etc.</dd>
     <dd>My graduate education has provided me with extended experience in Python, SQL, and data visualization. I have earned certificates on <b>Data Visualization with Tableau</b> by <b>UC Davis</b>, <b>AI Engineering and Data Science Specialization</b> by <b>IBM</b>.</dd>
 </dl>
 
